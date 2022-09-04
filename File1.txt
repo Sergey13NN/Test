@@ -5,3 +5,4 @@ jdhfjsgj
 789.
 Добавим строку
 new branch line
+Новая строка для ГУИ
